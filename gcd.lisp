@@ -12,3 +12,5 @@
 		   a b
 		   b r))
     (values a)))
+
+;;; TODO: use ideas in https://www.cs.cmu.edu/Groups/AI/html/faqs/lang/lisp/part1/faq-doc-2.html to write a tail-rec version and try with Euler phi function stuff.
